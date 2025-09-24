@@ -9,8 +9,8 @@ import "@radix-ui/themes/styles.css";
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/* <App /> */}
-    {/* <Category/> */}
-    <ProductDetails/>
+    <Category/>
+    {/* <ProductDetails/> */}
 
   </StrictMode>,
 )
