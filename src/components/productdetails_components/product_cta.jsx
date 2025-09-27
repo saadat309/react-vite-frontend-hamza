@@ -31,7 +31,7 @@ const ProductCta = () => {
 
   return (
     <>
-      <div className="m-5 mt-8 flex flex-col">
+      <div className="mt-15  flex flex-col">
         <div>
           <p className="text-black text-3xl font-bold">
             Catch 22 - Gold Edition

@@ -36,7 +36,7 @@ export default function CarouselWithThumbs() {
   );
 
   return (
-    <div className="flex gap-8 items-center justify-center py-3">
+    <div className="flex gap-8 items-center justify-center py-3 mx-4">
       <Carousel orientation="vertical" className="w-25">
         <CarouselContent className="h-[400px]">
           {Array.from({ length: count }).map((_, index) => (
